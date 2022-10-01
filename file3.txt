@@ -1,0 +1,1 @@
+This is a simple text file 3 directly added to the repository.
